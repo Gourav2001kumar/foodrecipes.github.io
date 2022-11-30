@@ -526,7 +526,7 @@ header .icons #menu-bars{
         clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
     }
 .footer-basic{
-    width: 100%;
+    
 }
 
     header .navbar.active{
